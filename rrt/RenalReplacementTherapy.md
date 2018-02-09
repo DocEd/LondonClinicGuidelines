@@ -124,8 +124,6 @@ Systemic unfractionated heparin:
 - Aiming for APPTR: 2 – 2.5
 - All patients on systemic heparin should be monitored for Heparin Induced Thrombocytopaenia (HIT), if HIT is suspected the patient should be discussed with the haematology anticoagulation team.
 
-Regional unfractionated heparin/protamine:
-
 Epoprostenol / Prostacyclin (PGI2):
 - CVVHF 1L exchange unless otherwise stated by ITU consultant
 - Prostacyclin may be used in cases of HIT or in some patients with hepatic failure where heparin has little anticoagulant effect due to low antithrombin III levels and frequent clotting is problematic
