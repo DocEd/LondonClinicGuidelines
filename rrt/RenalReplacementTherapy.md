@@ -85,7 +85,7 @@ Correct type and placement of the venous dialysis catheter is essential to maint
 
 Type of catheter:
 - MAHURKAR 11.5Fr x 16 cm for internal jugular or subclavian
-- ? 20 cm line equivalent for femoral
+- MAHURKAR 19.5 cm line equivalent for femoral
 
 Insertion Site:
 First choice: Internal jugular vein (right in preference to the left)
@@ -144,6 +144,84 @@ Commencement of haemoﬁltration can cause cardiovascular instability. Consider 
 
 Anticipate falls in blood pressure with small doses of metaraminol, rather than attempting to rescue severe hypotension
 
+## PRISMAFLEX Haemofiltration with Heparin or Epoprostenol Anticoagulation
+- Collect all relevant equipment:
+  - filter set
+  - effluent bags
+  - 2 x 1000mls 0.9% Sodium Chloride
+  - 5000 units heparin (for priming)
+  - 20,000 units heparin OR Epoprostenol for infusion as per prescription
+- In the setting up therapy screen always choose CVVHDF regardless if you plan to use CVVH or CVVHDF (This will enable you to change from CVVH to CVVHDF if you need to during therapy and avoid restarting a whole new set).
+- In the anticoagulant screen always choose 'No anticoagulation' (Although you may be using Heparin or Epoprostenol we will not be using the integral syringe pump on the Prisma machine, and will instead use a separate BBraun syringe Driver).
+- Prepare 5000 units heparin in the 1st 1000mls bag of 0.9% Sodium Chloride for priming the circuit and have the 2nd 1000mls (without heparin) bag ready for re-priming. 
+- Continue loading set as you would if you were setting up the Prisma for use with Citrate and confirm set and flow rates. Do not clamp the syringe line (green tip) as we will use this line with the external syringe driver.
+- Confirm fluid loss alarm as 400ml - please do not adjust this as is a safety issue. Continue priming process as per screen instructions. 
+
+For CVVH therapy | For CVVHDF therapy
+---|---
+Pre-dilution scale (white) - Replacement fluid eg Monosol, PrismoSol | Pre-dilution scale (white) - Replacement fluid eg Monosol, PrismoSol
+Post dilution scale (purple) - Replacement fluid eg Monosol, PrismoSol | Post dilution scale (purple) - Replacement fluid eg Monosol, PrismoSol
+Dialysate scale (green) - Hang a bag of 1 litre 0.9% normal saline | Dialysate scale (green) - Replacement fluid eg Monosol, PrismoSol
+
+- Prepare 20000 units Heparin or Epoprostenol infusion as per prescription and remember to record in the infusion section on ICIP. 
+- Place the infusion in the external syringe driver. Attach syringe and giving set to the syringe line in the filter set (with green anti-syphon tip). When you prime the line of the syringe driver giving set, prime an additional 1ml to ensure the filter line has also been primed. If this is forgotten or you are concerned there is still air in the line, this air will be detected by the aeration chamber. 
+
+### What rates to set?
+
+Examples:
+For a 1 litre exchange on CVVH:
+- Pre-blood pump set to 500mls
+- Replacement set to 500mls
+- Dialysate set to 0 mls
+- Set fluid removal rate (as per fluid balance target)
+
+For a 2 litre exchange on CVVHDF
+- Pump speed aim
+- Pre-blood pump set to 500mls
+- Replacement set to 500mls
+- Dialysate set to 1000mls
+- Set fluid removal rate (as per fluid balance target)
+
+### Recommended Programming Guide CVVH
+Total Exchange mls/hour | Pre blood pump (PBP) mls/hr | Replacement mls/hr | Min. blood pump speed(mls/min)
+---|---|---|---
+1000|500|500|150
+1500|500|1000|180
+1800|600|1200|200
+2000|700|1300|220
+2300|900|1400|250
+2500|1000|1500|280
+
+### Recommended Programming Guide CVVHDF
+Total Exchange mls/hr | Pre blood pump (PBP) mls/hr | Replacement mls/hr | Dialysate mls/hr | Min. blood pump speed(mls/min)
+---|---|---|---
+1000|200|300|500|150
+2000|500|500|1000|180
+3000|600|900|1500|200
+
+- Go to 'confirm all' then 'continue'.
+- Now connect the patient as per the screen. At this point the Y connector should be removed (this is what we use when delivering calcium to the return line as part of citrate therapy) and attached directly red to red port and blue to blue port.
+- Commence therapy as normal. Remember to start the external syringe driver containing the Heparin or Epoprostenol as per prescription
+
+Refer to Figures below regarding management of Heparin and Epoprostenol and/or refer to separate guidelines
+
+### Nomogram for Heparin Sodium Infusion for CRRT - concentration 1,000 units/ml
+APTTR|Infusion Rate Change
+---|---
+> 6.2|Stop for 2 hours, reduce by 500 units/hour (0.5 ml/hr), recheck urgently at 4 hours once restarted
+4.2-6.2|Stop for 1 hour, reduce by 300 units/hour (0.3 ml/hr), and recheck urgently at 4 hours once restarted.
+3.6-4.2|Reduce by 200 units hour (0.2 ml/hr), and recheck at 4 hours
+2.6 - 3.6|Reduce by 100 units/hour (0.1 ml/hr) and recheck in 4 hours.
+<2.6|No change if no signs of filter clotting. Recheck APTT in 6 hours
+1.5 - 2.6|No change if no signs of filter clotting. If filter shows signs of clotting increase by 100 units/hour (0.1 ml/hr), consider repeat bolus of 2,000 units/heparin. Recheck APTT in 6 hours.
+1 - 1.5|No change if no signs of filter clotting. If signs of filter clotting, consider bolus of 2,000 units, and increase infusion by 400 units/hour. Recheck APTT in 6 hours.
+ 
+NOTE: The London Clinic’s APTT reference range is listed as 23 - 35.
+These calculations are based upon a normalisation of the APTT by dividing by 29.
+THESE FIGURES MUST BE CHECKED BY THE LAB PRIOR TO USE
+
+Send specimens to the lab marked "Urgent - on heparin"
+
 ## Overnight
 It is not always essential to replace a clotted haemoﬁlter between midnight and 08:00. Consider delaying re-initiation of therapy until the morning in patients who have been established on haemoﬁltration for over 24 hours and who also fulﬁl the following criteria:
 - Serum potassium <6 mmol/L
@@ -157,29 +235,16 @@ If haemoﬁltration is delayed > 4 hours then catheters should be locked with un
 ## References
 
 1. Asquith JR. Dialysis Access Management. In: Cowling MG, ed. Vascular Interventional Radiology: Springer; 2007:125 – 34.
-
 2. Brocklehurst IC, Thomas AN, Kishen R, Guy JM. Creatinine and urea clearance during continuous veno-venous haemoﬁltration in critically ill patients. Anaesthesia 1996;51:551-3.
-
 3. Manns M, Sigler MH, Teehan BP. Continuous renal replacement therapies: an update. Am J Kidney Dis 1998;32:185-207.
-
 4. Eknoyan G, Beck GJ, Cheung AK, et al. Effect of dialysis dose and membrane ﬂux in maintenance hemodialysis. N Engl J Med 2002;347:2010-9.
-
 5. Bellomo R, Cass A, Cole L, et al. Intensity of continuous renal-replacement therapy in critically ill patients. N Engl J Med 2009;361:1627-38.
-
 6. Bouman CS, Oudemans-Van Straaten HM, Tijssen JG, Zandstra DF, Kesecioglu J. Effects of early high-volume continuous venovenous hemoﬁltration on survival and recovery of renal function in intensive care patients with acute renal failure: a prospective, randomized trial. Crit Care Med 2002;30:2205-11.
-
 7. Ronco C, Bellomo R, Homel P, et al. Effects of different doses in continuous venovenous haemoﬁltration on outcomes of acute renal failure: a prospective randomised trial. Lancet 2000;356:26-30.
-
 8. Saudan P, Niederberger M, De Seigneux S, et al. Adding a dialysis dose to continuous hemoﬁltration increases survival in patients with acute renal failure. Kidney Int 2006;70:1312-7.
-
 9. Tolwani AJ, Campbell RC, Stofan BS, Lai KR, Oster RA, Wille KM. Standard versus high-dose CVVHDF for ICU-related acute renal failure. J Am Soc Nephrol 2008;19:1233-8.
-
 10. Palevsky PM, Zhang JH, O'Connor TZ, et al. Intensity of renal support in critically ill patients with acute kidney injury. N Engl J Med 2008;359:7-20.
-
 11. KDIGO Clinical Practice Guideline for Acute Kidney Injury, Kidney International Supplements, VOLUME 2, ISSUE 1, MARCH 2012
-
 12. Royal Brompton and Hareﬁeld Guidelines for continuous venovenous renal replacement therapy in the Adult Intensive Care Unit 2015, United Kingdom
-
 13. Alfred Health Guidance for Continuous Renal Replacement Therapy in ICU, Melbourne, Australia 13 . Austin Health, Clinical guideline for CRRT in the intensive care unit 2015, Melbourne, Australia
-
 14. University College London Hospital ICU Clinical Guidelines for Renal Replacement Therapy. 2018. London, UK.
