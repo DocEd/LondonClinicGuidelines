@@ -58,17 +58,22 @@ The mechanism of solute clearance is by diﬀusion. Solutes in blood pass down a
 
 In Figure 1 below the arrows that cross the membrane indicate the predominant direction of movement of each solute through the membrane; the relative size of the arrows indicates the net amounts of the solute transferred. Other arrows indicate the direction of ﬂuid ﬂow.
 
-![Figure 1.](figs/figure1.jpg)
+![Figure 1.](figure1.png)
 
 ### Haemoﬁltration
 The mechanism of solute clearance is by convection. Blood under pressure passes down one side of a highly permeable membrane allowing both water and substances up to molecular weights of between 30-50,000 kDa to pass across the membrane by convective ﬂow. Refer below to Figure 2.
 
-![Figure 2.](figs/figure2.jpg)
+![Figure 2.](figure2.png)
 
 ### Peritoneal dialysis
 Peritoneal dialysis is an alternative mechanism of renal replacement therapy. Fluid is instilled into the abdomen via a special catheter and allowed to remain there for some time (dwell time), during which ﬂuids and electrolytes diﬀuse across the peritoneal membrane.
 
 This guideline does not consider peritoneal dialysis
+
+![CVVHF](figure3.png)
+![CVVHD](figure4.png)
+![CVVHDF](figure5.png)
+![SCUF](figure6.png)
 
 ### CVVHF
 
@@ -103,7 +108,7 @@ Subclavian veins are less favoured due to ﬂow problems and the increased incid
 Placement:
 The optimal position for the tip of a dialysis catheter (when inserting via the internal jugular or subclavian vein) is in the region of the superior vena cava – right atrial junction, typically at the level of the right main bronchus (see below)
 
-![Figure 2.](figs/figure3.jpg)
+![Figure 7](figure7.png)
 
 Catheter Lock – Heparin Lock
 
