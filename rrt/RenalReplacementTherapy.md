@@ -113,8 +113,9 @@ All dialysis catheters should be heparin locked (add heparin concentrate) access
 Heparin-lock **MUST be ASPIRATED** prior to re-using the lines
 
 Catheter type | Proximal lumen (red) | Distal lumen (blue)
-----
+---|---|---
 MAHURKAR 11.5Fr x 16 cm | ? | ?
+MAHURKAR 11.5Fr x 19.5 cm | ? | ?
 
 ## Approach to Anticoagulation for RRT
 
@@ -183,21 +184,23 @@ For a 2 litre exchange on CVVHDF
 - Set fluid removal rate (as per fluid balance target)
 
 ### Recommended Programming Guide CVVH
+
 Total Exchange mls/hour | Pre blood pump (PBP) mls/hr | Replacement mls/hr | Min. blood pump speed(mls/min)
----|---|---|---
-1000|500|500|150
-1500|500|1000|180
-1800|600|1200|200
-2000|700|1300|220
-2300|900|1400|250
-2500|1000|1500|280
+--- | --- | --- | ---
+1000 | 500 | 500 | 150
+1500 | 500 | 1000 | 180
+1800 | 600 | 1200 | 200
+2000 | 700 | 1300 | 220
+2300 | 900 | 1400 | 250
+2500 | 1000 | 1500 | 280
 
 ### Recommended Programming Guide CVVHDF
+
 Total Exchange mls/hr | Pre blood pump (PBP) mls/hr | Replacement mls/hr | Dialysate mls/hr | Min. blood pump speed(mls/min)
----|---|---|---
-1000|200|300|500|150
-2000|500|500|1000|180
-3000|600|900|1500|200
+--- | --- | --- | ---
+1000 | 200 | 300 | 500 | 150
+2000 | 500 | 500 | 1000 | 180
+3000 | 600 | 900 | 1500 | 200
 
 - Go to 'confirm all' then 'continue'.
 - Now connect the patient as per the screen. At this point the Y connector should be removed (this is what we use when delivering calcium to the return line as part of citrate therapy) and attached directly red to red port and blue to blue port.
@@ -206,15 +209,16 @@ Total Exchange mls/hr | Pre blood pump (PBP) mls/hr | Replacement mls/hr | Dialy
 Refer to Figures below regarding management of Heparin and Epoprostenol and/or refer to separate guidelines
 
 ### Nomogram for Heparin Sodium Infusion for CRRT - concentration 1,000 units/ml
-APTTR|Infusion Rate Change
----|---
-> 6.2|Stop for 2 hours, reduce by 500 units/hour (0.5 ml/hr), recheck urgently at 4 hours once restarted
-4.2-6.2|Stop for 1 hour, reduce by 300 units/hour (0.3 ml/hr), and recheck urgently at 4 hours once restarted
-3.6-4.2|Reduce by 200 units hour (0.2 ml/hr), and recheck at 4 hours
-2.6 - 3.6|Reduce by 100 units/hour (0.1 ml/hr) and recheck in 4 hours
-<2.6|No change if no signs of filter clotting. Recheck APTT in 6 hours
-1.5 - 2.6|No change if no signs of filter clotting. If filter shows signs of clotting increase by 100 units/hour (0.1 ml/hr), consider repeat bolus of 2,000 units/heparin. Recheck APTT in 6 hours
-1 - 1.5|No change if no signs of filter clotting. If signs of filter clotting, consider bolus of 2,000 units, and increase infusion by 400 units/hour. Recheck APTT in 6 hours
+
+APTTR | Infusion Rate Change
+--- | ---
+> 6.2 | Stop for 2 hours, reduce by 500 units/hour (0.5 ml/hr), recheck urgently at 4 hours once restarted
+4.2-6.2 | Stop for 1 hour, reduce by 300 units/hour (0.3 ml/hr), and recheck urgently at 4 hours once restarted
+3.6-4.2 | Reduce by 200 units hour (0.2 ml/hr), and recheck at 4 hours
+2.6 - 3.6 | Reduce by 100 units/hour (0.1 ml/hr) and recheck in 4 hours
+<2.6 | No change if no signs of filter clotting. Recheck APTT in 6 hours
+1.5 - 2.6 | No change if no signs of filter clotting. If filter shows signs of clotting increase by 100 units/hour (0.1 ml/hr), consider repeat bolus of 2,000 units/heparin. Recheck APTT in 6 hours
+1 - 1.5 | No change if no signs of filter clotting. If signs of filter clotting, consider bolus of 2,000 units, and increase infusion by 400 units/hour. Recheck APTT in 6 hours
  
 NOTE: The London Clinic’s APTT reference range is listed as 23 - 35.
 These calculations are based upon a normalisation of the APTT by dividing by 29.
@@ -233,7 +237,6 @@ It is not always essential to replace a clotted haemoﬁlter between midnight an
 If haemoﬁltration is delayed > 4 hours then catheters should be locked with unfractionated heparin
 
 ## References
-
 1. Asquith JR. Dialysis Access Management. In: Cowling MG, ed. Vascular Interventional Radiology: Springer; 2007:125 – 34.
 2. Brocklehurst IC, Thomas AN, Kishen R, Guy JM. Creatinine and urea clearance during continuous veno-venous haemoﬁltration in critically ill patients. Anaesthesia 1996;51:551-3.
 3. Manns M, Sigler MH, Teehan BP. Continuous renal replacement therapies: an update. Am J Kidney Dis 1998;32:185-207.
