@@ -161,7 +161,9 @@ Anticipate falls in blood pressure with small doses of metaraminol, rather than 
 - In the anticoagulant screen always choose 'No anticoagulation' (Although you may be using Heparin or Epoprostenol we will not be using the integral syringe pump on the Prisma machine, and will instead use a separate BBraun syringe Driver).
 - Prepare 5000 units heparin in the 1st 1000mls bag of 0.9% Sodium Chloride for priming the circuit and have the 2nd 1000mls (without heparin) bag ready for re-priming. 
 - Continue loading set as you would if you were setting up the Prisma for use with Citrate and confirm set and flow rates. Do not clamp the syringe line (green tip) as we will use this line with the external syringe driver.
-- Confirm fluid loss alarm as 400ml - please do not adjust this as is a safety issue. Continue priming process as per screen instructions. 
+- Confirm fluid loss alarm as 400ml - please do not adjust this as is a safety issue. Continue priming process as per screen instructions
+
+![anticoagulation flow chart](figs/rrt_anticoag.png)
 
 For CVVH therapy | For CVVHDF therapy
 ---|---
