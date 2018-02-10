@@ -218,12 +218,11 @@ Refer to Figures below regarding management of Heparin and Epoprostenol and/or r
 APTTR | Infusion Rate Change
 --- | ---
 > 6.2 | Stop for 2 hours, reduce by 500 units/hour (0.5 ml/hr), recheck urgently at 4 hours once restarted
-4.2-6.2 | Stop for 1 hour, reduce by 300 units/hour (0.3 ml/hr), and recheck urgently at 4 hours once restarted
-3.6-4.2 | Reduce by 200 units hour (0.2 ml/hr), and recheck at 4 hours
-2.6 - 3.6 | Reduce by 100 units/hour (0.1 ml/hr) and recheck in 4 hours
-<2.6 | No change if no signs of filter clotting. Recheck APTT in 6 hours
-1.5 - 2.6 | No change if no signs of filter clotting. If filter shows signs of clotting increase by 100 units/hour (0.1 ml/hr), consider repeat bolus of 2,000 units/heparin. Recheck APTT in 6 hours
-1 - 1.5 | No change if no signs of filter clotting. If signs of filter clotting, consider bolus of 2,000 units, and increase infusion by 400 units/hour. Recheck APTT in 6 hours
+4.21 - 6.2 | Stop for 1 hour, reduce by 300 units/hour (0.3 ml/hr), and recheck urgently at 4 hours once restarted
+3.61 - 4.2 | Reduce by 200 units hour (0.2 ml/hr), and recheck at 4 hours
+2.51 - 3.6 | Reduce by 100 units/hour (0.1 ml/hr) and recheck in 4 hours
+1.51 - 2.5 | No change if no signs of filter clotting, recheck APTTR in 6 hours. If filter **shows signs of clotting** increase by 100 units/hour, consider repeat bolus of 2,000 units heparin, recheck APTT in 6 hours
+1 - 1.5 | No change if no signs of filter clotting, recheck APTTR in 6 hours. If filter **shows signs of clotting** consider bolus of 2,000 units heparin, and increase infusion by 400 units/hour, recheck APTT in 6 hours
  
 NOTE: The London Clinic’s APTT reference range is listed as 23 - 35.
 These calculations are based upon a normalisation of the APTT by dividing by 29.
