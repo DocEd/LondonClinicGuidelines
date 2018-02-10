@@ -163,7 +163,7 @@ Anticipate falls in blood pressure with small doses of metaraminol, rather than 
 - Continue loading set as you would if you were setting up the Prisma for use with Citrate and confirm set and flow rates. Do not clamp the syringe line (green tip) as we will use this line with the external syringe driver.
 - Confirm fluid loss alarm as 400ml - please do not adjust this as is a safety issue. Continue priming process as per screen instructions
 
-![anticoagulation flow chart](figs/rrt_anticoag.png)
+![anticoagulation flow chart](rrt_anticoag.png)
 
 For CVVH therapy | For CVVHDF therapy
 ---|---
