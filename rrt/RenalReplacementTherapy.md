@@ -1,5 +1,7 @@
 ## Guidelines for Renal Replacement Therapy in the Adult Intensive Care Unit
 
+NOTE: This is a pre-release version and should NOT be used to inform clinical practice until it has been ratified.
+
 ### Aim
 To provide general guidance on the principles and provision of renal replacement therapy in intensive care unit.
 
